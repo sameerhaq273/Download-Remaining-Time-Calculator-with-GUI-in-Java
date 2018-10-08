@@ -1,2 +1,1 @@
-# hello-world
-Just another repository
+#This is a simplest and my first projoect on Github. This project calculates the remaining time for download while you can enter the data (MB/GB) and your internet speed (Kb/s). I've also included the executable .jar file and .exe file in this project. This project is in GUI built in java.
